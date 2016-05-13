@@ -936,4 +936,417 @@ LogInit: Object subsystem initialized
 [2016.05.12-06.49.08:251][372]LogAIModule: Creating AISystem for world Ch_TestLevel
 [2016.05.12-06.49.08:251][372]LogPlayLevel: PIE: World Init took: (0.000743s)
 [2016.05.12-06.49.08:252][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CherryBone/TestContent/Ch_TestLevel.Ch_TestLevel to /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel (0.029605s)
-[2016.05.12-06.49.08:252][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_34) N
+[2016.05.12-06.49.08:252][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_34) Not registered. Aborting.
+[2016.05.12-06.49.08:280][372]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.12-06.49.08:299][372]LogInit: FAudioDevice initialized.
+[2016.05.12-06.49.08:329][372]LogWorld: Game class is 'Ch_MyGameMode_C'
+[2016.05.12-06.49.08:331][372]LogWorld: Bringing World /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel up for play (max tick rate 0) at 2016.05.12-14.49.08
+[2016.05.12-06.49.08:332][372]LogWorld: Bringing up level for play took: 0.001477
+[2016.05.12-06.49.08:334][372]PIE: Info Play in editor start time for /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel -0.429
+[2016.05.12-06.49.17:819][220]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.05.12-06.49.22:429][533]BlueprintLog: New page: Compile Ch_Major
+[2016.05.12-06.49.22:598][533]BlueprintEditorCompileResults: Info [4098.37] Compile of Ch_Major successful! [in 169 ms]
+[2016.05.12-06.50.28:517][824]BlueprintLog: New page: Compile Ch_Major
+[2016.05.12-06.50.28:678][824]BlueprintEditorCompileResults: Info [4164.45] Compile of Ch_Major successful! [in 160 ms]
+[2016.05.12-06.50.31:083][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.12-06.50.31:083][ 28]PIE: New page: PIE session: Ch_TestLevel (May 12, 2016, 10:50:31 PM)
+[2016.05.12-06.50.31:083][ 28]LogPlayLevel: Creating play world package: /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel
+[2016.05.12-06.50.31:113][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029251s)
+[2016.05.12-06.50.31:113][ 28]LogAIModule: Creating AISystem for world Ch_TestLevel
+[2016.05.12-06.50.31:114][ 28]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2016.05.12-06.50.31:114][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CherryBone/TestContent/Ch_TestLevel.Ch_TestLevel to /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel (0.030167s)
+[2016.05.12-06.50.31:143][ 28]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.12-06.50.31:160][ 28]LogInit: FAudioDevice initialized.
+[2016.05.12-06.50.31:189][ 28]LogWorld: Game class is 'Ch_MyGameMode_C'
+[2016.05.12-06.50.31:191][ 28]LogWorld: Bringing World /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel up for play (max tick rate 0) at 2016.05.12-14.50.31
+[2016.05.12-06.50.31:192][ 28]LogWorld: Bringing up level for play took: 0.002088
+[2016.05.12-06.50.31:195][ 28]PIE: Info Play in editor start time for /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel 0.433
+[2016.05.12-06.50.43:380][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CherryBone/TestContent/Ch_Major" FILE="E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_Major.uasset" SILENT=true
+[2016.05.12-06.50.43:444][165]LogSavePackage: Save=58.48ms
+[2016.05.12-06.50.43:444][165]LogSavePackage: Moving 'E:/UnrealWorkspace/Dragon/Saved/Ch_Major5D7ACB0C4AB92C60E14C43B6AE9B1BF1.tmp' to 'E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_Major.uasset'
+[2016.05.12-06.50.43:448][165]LogSavePackage: Total save time: 66.16ms
+[2016.05.12-06.50.43:448][165]LogSavePackage:Display: Finished SavePackage E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_Major.uasset
+[2016.05.12-06.50.44:083][222]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.05.12-13.01.33:163][ 16]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.01.33:396][ 16]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.01.34:375][ 16]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.01.34:398][ 16]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.01.41:417][619]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.05.12-13.01.41:417][619]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.05.12-13.01.41:417][619]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.05.12-13.01.54:332][912]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.01.54:338][912]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.01.56:240][111]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.05.12-13.01.56:240][111]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.05.12-13.01.56:240][111]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.05.12-13.01.58:296][338]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.02.06:365][198]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#texturecoordinate
+[2016.05.12-13.04.45:978][778]LogTexture:Display: Building textures: T_Bush_D (AutoDXT)
+[2016.05.12-13.04.46:853][813]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.04.46:858][813]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.04.46:883][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.04.46:886][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.04.46:929][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.04.46:933][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.04.48:267][923]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.04.48:273][923]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.04.48:304][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.04.49:253][  3]LogMaterialEditor: Applying material NewMaterial
+[2016.05.12-13.04.49:885][  3]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.04.49:899][  3]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.04.49:925][  3]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.04.49:942][  3]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.04.49:963][  3]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.04.55:059][444]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2016.05.12-13.04.55:059][444]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.04.55:059][444]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.05.12-13.05.02:994][140]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2016.05.12-13.05.03:983][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2016.05.12-13.05.04:594][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2016.05.12-13.05.05:310][310]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2016.05.12-13.05.08:038][544]MapCheck: New page: Map Check
+[2016.05.12-13.05.08:080][544]LightingResults: New page: Lighting Build - May 13, 2016, 5:05:08 AM
+[2016.05.12-13.05.08:108][544]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.05.12-13.05.08:110][544]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.05.12-13.05.08:110][544]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.05.12-13.05.08:111][544]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.05.12-13.05.08:111][544]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5764
+[2016.05.12-13.05.12:620][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.05.12-13.05.12:620][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.05.12-13.05.12:620][544]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.05.12-13.05.12:620][544]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.05.12-13.05.12:620][544]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.05.12-13.05.12:866][544]LogEditorBuildUtils: Build time 0:00:04
+[2016.05.12-13.05.12:883][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_35) Not registered. Aborting.
+[2016.05.12-13.05.12:884][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_36) Not registered. Aborting.
+[2016.05.12-13.05.12:884][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.MovementComponent0) Not registered. Aborting.
+[2016.05.12-13.05.15:206][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.12-13.05.15:219][665]PIE: New page: PIE session: Ch_TestLevel (May 13, 2016, 5:05:15 AM)
+[2016.05.12-13.05.15:219][665]LogPlayLevel: Creating play world package: /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel
+[2016.05.12-13.05.15:248][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028042s)
+[2016.05.12-13.05.15:249][665]LogAIModule: Creating AISystem for world Ch_TestLevel
+[2016.05.12-13.05.15:249][665]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2016.05.12-13.05.15:249][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CherryBone/TestContent/Ch_TestLevel.Ch_TestLevel to /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel (0.029000s)
+[2016.05.12-13.05.15:278][665]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.12-13.05.15:298][665]LogInit: FAudioDevice initialized.
+[2016.05.12-13.05.15:331][665]LogWorld: Game class is 'Ch_MyGameMode_C'
+[2016.05.12-13.05.15:333][665]LogWorld: Bringing World /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel.Ch_TestLevel up for play (max tick rate 0) at 2016.05.12-21.05.15
+[2016.05.12-13.05.15:333][665]LogWorld: Bringing up level for play took: 0.001711
+[2016.05.12-13.05.15:335][665]PIE: Info Play in editor start time for /Game/CherryBone/TestContent/UEDPIE_0_Ch_TestLevel 1.111
+[2016.05.12-13.05.24:225][530]Job is a success!
+[2016.05.12-13.05.49:084][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2016.05.12-13.05.49:712][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2016.05.12-13.05.50:037][864]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2016.05.12-13.06.01:415][897]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.06.01:420][897]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.06.01:475][897]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.06.01:479][897]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.06.04:240][136]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.06.04:240][136]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.06.04:240][136]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.06.11:340][787]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.06.11:345][787]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.06.11:372][787]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.06.13:306][964]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.05.12-13.06.13:306][964]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.06.13:306][964]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.06.19:043][512]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.06.19:048][512]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.06.19:077][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.06.21:105][700]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.05.12-13.06.21:105][700]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.06.21:105][700]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.06.38:989][377]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.06.38:994][377]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.06.39:023][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.06.40:997][549]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.06.40:997][549]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.06.40:997][549]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.06.43:758][801]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.05.12-13.06.43:763][801]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.06.43:791][801]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.06.43:980][801]LogSavePackage: Save=101.64ms
+[2016.05.12-13.06.43:980][801]LogSavePackage: Moving 'E:/UnrealWorkspace/Dragon/Saved/Ch_TestLevel_Auto1EC46C86341FB2420C192C398D25D7830.tmp' to 'E:/UnrealWorkspace/Dragon/Saved/Autosaves/Game/CherryBone/TestContent/Ch_TestLevel_Auto1.umap'
+[2016.05.12-13.06.43:982][801]LogSavePackage: Total save time: 111.51ms
+[2016.05.12-13.06.43:982][801]LogSavePackage:Display: Finished SavePackage E:/UnrealWorkspace/Dragon/Saved/Autosaves/Game/CherryBone/TestContent/Ch_TestLevel_Auto1.umap
+[2016.05.12-13.06.43:992][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CherryBone/TestContent/Ch_TestLevel' took 0.155
+[2016.05.12-13.06.43:992][801]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2016.05.12-13.06.44:016][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CherryBone/NewMaterial] ([1] browsable assets)...
+[2016.05.12-13.06.44:046][801]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CherryBone/NewMaterial.NewMaterial]
+[2016.05.12-13.06.44:046][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/CherryBone/NewMaterial]
+[2016.05.12-13.06.44:046][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CherryBone/NewMaterial" FILE="E:/UnrealWorkspace/Dragon/Saved/Autosaves/Game/CherryBone/NewMaterial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.05.12-13.06.44:066][801]LogSavePackage: Save=13.87ms
+[2016.05.12-13.06.44:066][801]LogSavePackage: Moving 'E:/UnrealWorkspace/Dragon/Saved/NewMaterial_Auto1E7DF6792412A4BEDB20343BBCCACA0A7.tmp' to 'E:/UnrealWorkspace/Dragon/Saved/Autosaves/Game/CherryBone/NewMaterial_Auto1.uasset'
+[2016.05.12-13.06.44:068][801]LogSavePackage: Total save time: 20.38ms
+[2016.05.12-13.06.44:068][801]LogSavePackage:Display: Finished SavePackage E:/UnrealWorkspace/Dragon/Saved/Autosaves/Game/CherryBone/NewMaterial_Auto1.uasset
+[2016.05.12-13.06.44:068][801]LogFileHelpers: Auto-saving content packages took 0.066
+[2016.05.12-13.06.45:432][895]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.06.45:432][895]MaterialEditorStats: Info Vertex shader: 30 instructions
+[2016.05.12-13.06.45:432][895]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.07.04:998][433]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.05:071][433]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.05:076][433]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.05:102][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.07.05:105][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.07.07:004][598]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.07.07:004][598]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.07.07:004][598]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.07.07:746][664]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.07:752][664]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.07:804][664]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.07.07:807][664]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.07.09:705][837]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.07.09:705][837]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.07.09:705][837]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.07.36:902][615]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.36:907][615]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.39:037][824]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.39:042][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.39:072][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.05.12-13.07.41:034][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.41:040][ 13]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.41:066][ 13]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.05.12-13.07.42:706][174]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2016.05.12-13.07.43:493][255]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.05.12-13.07.43:493][255]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.07.43:493][255]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.07.48:852][789]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.05.12-13.07.48:857][789]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.05.12-13.07.48:884][789]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2016.05.12-13.07.50:826][972]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2016.05.12-13.07.50:826][972]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.05.12-13.07.50:826][972]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.05.12-13.08.25:017][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CherryBone/NewMaterial" FILE="E:/UnrealWorkspace/Dragon/Content/CherryBone/NewMaterial.uasset" SILENT=true
+[2016.05.12-13.08.25:024][ 28]LogSavePackage: Save=2.85ms
+[2016.05.12-13.08.25:024][ 28]LogSavePackage: Moving 'E:/UnrealWorkspace/Dragon/Saved/NewMaterialAD55D7994844DC8A94FBD99E72688B75.tmp' to 'E:/UnrealWorkspace/Dragon/Content/CherryBone/NewMaterial.uasset'
+[2016.05.12-13.08.25:028][ 28]LogSavePackage: Total save time: 9.84ms
+[2016.05.12-13.08.25:028][ 28]LogSavePackage:Display: Finished SavePackage E:/UnrealWorkspace/Dragon/Content/CherryBone/NewMaterial.uasset
+[2016.05.12-13.08.25:139][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CherryBone/TestContent/Ch_TestLevel" FILE="E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.05.12-13.08.25:240][ 28]LogSavePackage: Save=84.24ms
+[2016.05.12-13.08.25:240][ 28]LogSavePackage: Moving 'E:/UnrealWorkspace/Dragon/Saved/Ch_TestLevelB704C2D14E35141CBC1AC8836868F62C.tmp' to 'E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_TestLevel.umap'
+[2016.05.12-13.08.25:245][ 28]LogSavePackage: Total save time: 91.41ms
+[2016.05.12-13.08.25:245][ 28]LogSavePackage:Display: Finished SavePackage E:/UnrealWorkspace/Dragon/Content/CherryBone/TestContent/Ch_TestLevel.umap
+[2016.05.12-13.08.25:263][ 28]LogFileHelpers: Saving map 'Ch_TestLevel' took 0.231
+[2016.05.12-13.08.25:385][ 28]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (搜狗拼音输入法).
+[2016.05.12-13.08.25:757][ 29]Cmd: QUIT_EDITOR
+[2016.05.12-13.08.26:618][ 29]LogExit: Preparing to exit.
+[2016.05.12-13.08.28:101][ 29]LogExit: Editor shut down
+[2016.05.12-13.08.28:102][ 29]LogExit: Transaction tracking system shut down
+[2016.05.12-13.08.29:664][ 29]LogObj: Freed 0b from 0 cluster array pools.
+[2016.05.12-13.08.29:664][ 29]LogExit: Object subsystem successfully closed.
+[2016.05.12-13.08.29:955][ 29]LogD3D11RHI: Shutdown
+[2016.05.12-13.08.29:955][ 29]LogD3D11RHI: CleanupD3DDevice
+[2016.05.12-13.08.30:004][ 29]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.05.12-13.08.30:159][ 29]LogDerivedDataCache: Shutdown
+[2016.05.12-13.08.30:877][ 29]LogModuleManager: Shutting down and abandoning module MaterialEditor (211)
+[2016.05.12-13.08.30:877][ 29]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (210)
+[2016.05.12-13.08.30:877][ 29]LogModuleManager: Shutting down and abandoning module BlueprintGraph (209)
+[2016.05.12-13.08.30:877][ 29]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (208)
+[2016.05.12-13.08.30:877][ 29]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (207)
+[2016.05.12-13.08.30:924][ 29]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (206)
+[2016.05.12-13.08.30:929][ 29]LogModuleManager: Shutting down and abandoning module CrashTracker (205)
+[2016.05.12-13.08.30:942][ 29]LogModuleManager: Shutting down and abandoning module SceneOutliner (204)
+[2016.05.12-13.08.30:954][ 29]LogModuleManager: Shutting down and abandoning module SuperSearch (203)
+[2016.05.12-13.08.30:954][ 29]LogModuleManager: Shutting down and abandoning module WidgetCarousel (202)
+[2016.05.12-13.08.30:954][ 29]LogModuleManager: Shutting down and abandoning module AddContentDialog (201)
+[2016.05.12-13.08.30:988][ 29]LogModuleManager: Shutting down and abandoning module GameplayTags (200)
+[2016.05.12-13.08.30:988][ 29]LogModuleManager: Shutting down and abandoning module EditorWidgets (199)
+[2016.05.12-13.08.30:988][ 29]LogModuleManager: Shutting down and abandoning module CollectionManager (198)
+[2016.05.12-13.08.30:997][ 29]LogModuleManager: Shutting down and abandoning module StatsViewer (197)
+[2016.05.12-13.08.31:020][ 29]LogModuleManager: Shutting down and abandoning module FoliageEdit (196)
+[2016.05.12-13.08.31:029][ 29]LogModuleManager: Shutting down and abandoning module LandscapeEditor (195)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module ActorPickerMode (194)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module GeometryMode (193)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module TextureAlignMode (192)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module BspMode (191)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module PlacementMode (190)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module AutomationWorker (189)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module CharacterAI (188)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module SmartSnapping (187)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module ViewportSnapping (186)
+[2016.05.12-13.08.31:047][ 29]LogModuleManager: Shutting down and abandoning module LogVisualizer (185)
+[2016.05.12-13.08.31:072][ 29]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (184)
+[2016.05.12-13.08.31:096][ 29]LogModuleManager: Shutting down and abandoning module IntroTutorials (183)
+[2016.05.12-13.08.31:123][ 29]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (182)
+[2016.05.12-13.08.31:123][ 29]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (181)
+[2016.05.12-13.08.31:145][ 29]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (180)
+[2016.05.12-13.08.31:145][ 29]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (179)
+[2016.05.12-13.08.32:117][ 29]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (178)
+[2016.05.12-13.08.32:117][ 29]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (177)
+[2016.05.12-13.08.32:117][ 29]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (176)
+[2016.05.12-13.08.32:117][ 29]LogModuleManager: Shutting down and abandoning module MergeActors (175)
+[2016.05.12-13.08.32:141][ 29]LogModuleManager: Shutting down and abandoning module SizeMap (174)
+[2016.05.12-13.08.32:151][ 29]LogModuleManager: Shutting down and abandoning module TreeMap (173)
+[2016.05.12-13.08.32:159][ 29]LogModuleManager: Shutting down and abandoning module ReferenceViewer (172)
+[2016.05.12-13.08.32:170][ 29]LogModuleManager: Shutting down and abandoning module LocalizationService (171)
+[2016.05.12-13.08.32:177][ 29]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (170)
+[2016.05.12-13.08.32:191][ 29]LogModuleManager: Shutting down and abandoning module HardwareTargeting (169)
+[2016.05.12-13.08.32:191][ 29]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (168)
+[2016.05.12-13.08.32:207][ 29]LogModuleManager: Shutting down and abandoning module UndoHistory (167)
+[2016.05.12-13.08.32:209][ 29]LogModuleManager: Shutting down and abandoning module UserFeedback (166)
+[2016.05.12-13.08.32:209][ 29]LogModuleManager: Shutting down and abandoning module XmlParser (165)
+[2016.05.12-13.08.32:220][ 29]LogModuleManager: Shutting down and abandoning module Blutility (164)
+[2016.05.12-13.08.32:230][ 29]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (163)
+[2016.05.12-13.08.32:231][ 29]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (162)
+[2016.05.12-13.08.32:231][ 29]LogModuleManager: Shutting down and abandoning module InputBindingEditor (161)
+[2016.05.12-13.08.32:263][ 29]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (160)
+[2016.05.12-13.08.32:263][ 29]LogModuleManager: Shutting down and abandoning module SettingsEditor (159)
+[2016.05.12-13.08.32:273][ 29]LogModuleManager: Shutting down and abandoning module ProjectLauncher (158)
+[2016.05.12-13.08.32:293][ 29]LogModuleManager: Shutting down and abandoning module SessionFrontend (157)
+[2016.05.12-13.08.32:314][ 29]LogModuleManager: Shutting down and abandoning module ProfilerClient (156)
+[2016.05.12-13.08.32:317][ 29]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (155)
+[2016.05.12-13.08.32:317][ 29]LogModuleManager: Shutting down and abandoning module DeviceManager (154)
+[2016.05.12-13.08.32:359][ 29]LogModuleManager: Shutting down and abandoning module AutomationController (153)
+[2016.05.12-13.08.32:381][ 29]LogModuleManager: Shutting down and abandoning module AutomationWindow (152)
+[2016.05.12-13.08.32:394][ 29]LogModuleManager: Shutting down and abandoning module Layers (151)
+[2016.05.12-13.08.32:422][ 29]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (150)
+[2016.05.12-13.08.32:422][ 29]LogModuleManager: Shutting down and abandoning module DetailCustomizations (149)
+[2016.05.12-13.08.32:437][ 29]LogModuleManager: Shutting down and abandoning module PackagesDialog (148)
+[2016.05.12-13.08.32:437][ 29]LogModuleManager: Shutting down and abandoning module Persona (147)
+[2016.05.12-13.08.32:512][ 29]LogModuleManager: Shutting down and abandoning module Kismet (146)
+[2016.05.12-13.08.32:524][ 29]LogModuleManager: Shutting down and abandoning module GraphEditor (145)
+[2016.05.12-13.08.32:525][ 29]LogModuleManager: Shutting down and abandoning module ClassViewer (144)
+[2016.05.12-13.08.32:526][ 29]LogModuleManager: Shutting down and abandoning module Toolbox (143)
+[2016.05.12-13.08.32:537][ 29]LogModuleManager: Shutting down and abandoning module ModuleUI (142)
+[2016.05.12-13.08.32:544][ 29]LogModuleManager: Shutting down and abandoning module MovieSceneTools (141)
+[2016.05.12-13.08.32:554][ 29]LogModuleManager: Shutting down and abandoning module OutputLog (140)
+[2016.05.12-13.08.32:569][ 29]LogModuleManager: Shutting down and abandoning module GammaUI (139)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module Documentation (138)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (137)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module AnalyticsET (136)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module Analytics (135)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module PortalServices (134)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module PortalRpc (133)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module MessagingRpc (132)
+[2016.05.12-13.08.32:577][ 29]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.05.12-13.08.32:583][ 29]LogModuleManager: Shutting down and abandoning module GameplayDebugger (130)
+[2016.05.12-13.08.32:599][ 29]LogModuleManager: Shutting down and abandoning module AIModule (129)
+[2016.05.12-13.08.32:599][ 29]LogModuleManager: Shutting down and abandoning module ProfilerService (128)
+[2016.05.12-13.08.32:791][ 29]LogModuleManager: Shutting down and abandoning module TaskGraph (127)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module SlateRemote (126)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module SteamVRController (125)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module SteamVR (124)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (123)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module OculusLibrary (122)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module OculusInput (121)
+[2016.05.12-13.08.32:810][ 29]LogModuleManager: Shutting down and abandoning module FaceFXEditor (120)
+[2016.05.12-13.08.32:836][ 29]LogModuleManager: Shutting down and abandoning module FaceFX (119)
+[2016.05.12-13.08.32:836][ 29]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (118)
+[2016.05.12-13.08.32:836][ 29]LogModuleManager: Shutting down and abandoning module CableComponent (117)
+[2016.05.12-13.08.32:836][ 29]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (116)
+[2016.05.12-13.08.32:836][ 29]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (115)
+[2016.05.12-13.08.32:862][ 29]LogModuleManager: Shutting down and abandoning module HTML5Networking (114)
+[2016.05.12-13.08.32:862][ 29]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (113)
+[2016.05.12-13.08.32:862][ 29]LogModuleManager: Shutting down and abandoning module PluginBrowser (112)
+[2016.05.12-13.08.32:879][ 29]LogModuleManager: Shutting down and abandoning module EpicSurvey (111)
+[2016.05.12-13.08.32:894][ 29]LogModuleManager: Shutting down and abandoning module DesktopPlatform (110)
+[2016.05.12-13.08.32:912][ 29]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (109)
+[2016.05.12-13.08.32:927][ 29]LogModuleManager: Shutting down and abandoning module UObjectPlugin (108)
+[2016.05.12-13.08.32:927][ 29]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (107)
+[2016.05.12-13.08.32:938][ 29]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (106)
+[2016.05.12-13.08.32:960][ 29]LogModuleManager: Shutting down and abandoning module SourceControl (105)
+[2016.05.12-13.08.32:966][ 29]LogModuleManager: Shutting down and abandoning module GitSourceControl (104)
+[2016.05.12-13.08.32:983][ 29]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (103)
+[2016.05.12-13.08.32:983][ 29]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (102)
+[2016.05.12-13.08.32:994][ 29]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (101)
+[2016.05.12-13.08.32:994][ 29]LogModuleManager: Shutting down and abandoning module MeshPaint (100)
+[2016.05.12-13.08.33:005][ 29]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.05.12-13.08.33:008][ 29]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.05.12-13.08.33:008][ 29]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.05.12-13.08.33:008][ 29]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (96)
+[2016.05.12-13.08.33:010][ 29]LogModuleManager: Shutting down and abandoning module AssetRegistry (95)
+[2016.05.12-13.08.33:174][ 29]LogModuleManager: Shutting down and abandoning module ContentBrowser (94)
+[2016.05.12-13.08.33:176][ 29]LogModuleManager: Shutting down and abandoning module Paper2DEditor (93)
+[2016.05.12-13.08.33:186][ 29]LogModuleManager: Shutting down and abandoning module UdpMessaging (92)
+[2016.05.12-13.08.33:287][ 29]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (91)
+[2016.05.12-13.08.33:287][ 29]LogModuleManager: Shutting down and abandoning module Paper2D (90)
+[2016.05.12-13.08.33:287][ 29]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (89)
+[2016.05.12-13.08.33:293][ 29]LogModuleManager: Shutting down and abandoning module Media (88)
+[2016.05.12-13.08.33:293][ 29]LogModuleManager: Shutting down and abandoning module WmfMedia (87)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module MediaAssets (86)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (85)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (84)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (83)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (82)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module PropertyEditor (81)
+[2016.05.12-13.08.33:303][ 29]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (80)
+[2016.05.12-13.08.33:325][ 29]LogModuleManager: Shutting down and abandoning module FunctionalTesting (79)
+[2016.05.12-13.08.33:325][ 29]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (78)
+[2016.05.12-13.08.33:342][ 29]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.05.12-13.08.33:342][ 29]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.05.12-13.08.33:342][ 29]LogModuleManager: Shutting down and abandoning module Sequencer (75)
+[2016.05.12-13.08.33:371][ 29]LogModuleManager: Shutting down and abandoning module AssetTools (74)
+[2016.05.12-13.08.33:396][ 29]LogModuleManager: Shutting down and abandoning module UMGEditor (73)
+[2016.05.12-13.08.33:418][ 29]LogModuleManager: Shutting down and abandoning module UMG (72)
+[2016.05.12-13.08.33:451][ 29]LogModuleManager: Shutting down and abandoning module SlateReflector (71)
+[2016.05.12-13.08.33:473][ 29]LogModuleManager: Shutting down and abandoning module Slate (70)
+[2016.05.12-13.08.33:473][ 29]LogModuleManager: Shutting down and abandoning module EditorStyle (69)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module SessionServices (68)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (67)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (66)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module XAudio2 (65)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module Networking (63)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module Core (62)
+[2016.05.12-13.08.33:477][ 29]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.05.12-13.08.33:486][ 29]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.05.12-13.08.33:486][ 29]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.05.12-13.08.33:508][ 29]LogModuleManager: Shutting down and abandoning module CookingStats (58)
+[2016.05.12-13.08.33:508][ 29]LogModuleManager: Shutting down and abandoning module DerivedDataCache (57)
+[2016.05.12-13.08.33:508][ 29]LogDerivedDataCache: Shutdown
+[2016.05.12-13.08.33:508][ 29]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.05.12-13.08.33:513][ 29]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.05.12-13.08.33:530][ 29]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.05.12-13.08.33:539][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.05.12-13.08.33:539][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.05.12-13.08.33:548][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.05.12-13.08.33:562][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.05.12-13.08.33:562][ 29]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.05.12-13.08.33:562][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.05.12-13.08.33:562][ 29]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.05.12-13.08.33:562][ 29]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.05.12-13.08.33:575][ 29]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.05.12-13.08.33:585][ 29]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.05.12-13.08.33:597][ 29]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.05.12-13.08.33:597][ 29]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.05.12-13.08.33:631][ 29]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.05.12-13.08.33:705][ 29]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.05.12-13.08.33:738][ 29]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.05.12-13.08.33:792][ 29]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.05.12-13.08.33:806][ 29]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.05.12-13.08.33:822][ 29]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.05.12-13.08.33:822][ 29]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.05.12-13.08.33:822][ 29]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.05.12-13.08.33:822][ 29]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.05.12-13.08.33:839][ 29]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.05.12-13.08.33:839][ 29]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.05.12-13.08.35:341][ 29]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.05.12-13.08.35:370][ 29]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.05.12-13.08.35:384][ 29]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.05.12-13.08.35:384][ 29]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.05.12-13.08.35:384][ 29]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.05.12-13.08.35:384][ 29]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.05.12-13.08.35:384][ 29]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.05.12-13.08.35:399][ 29]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.05.12-13.08.35:415][ 29]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.05.12-13.08.35:428][ 29]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.05.12-13.08.35:432][ 29]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.05.12-13.08.35:439][ 29]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.05.12-13.08.35:458][ 29]LogExit: Exiting.
+[2016.05.12-13.08.35:476][ 29]Log file closed, 05/12/16 21:08:35
